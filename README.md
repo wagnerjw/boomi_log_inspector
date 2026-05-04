@@ -1,5 +1,4 @@
-# Define the content for the final README.md based on our journey
-readme_content = """# 🌊 Boomi Flow & Data Inspector
+# 🌊 Boomi Flow & Data Inspector
 
 A high-performance diagnostic tool for Boomi developers. This application transforms flat, monochrome `.log` files into an interactive, color-coded execution trace, making it easy to identify performance bottlenecks and inspect raw data payloads.
 
@@ -39,3 +38,4 @@ source .venv/bin/activate
 
 # Install dependencies
 pip install streamlit pandas python-dateutil
+```

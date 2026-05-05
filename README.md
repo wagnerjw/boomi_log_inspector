@@ -23,7 +23,7 @@ To build a tool that effectively "visualizes" a wall of text, we treat the log f
 Ensure you have Python 3.10 or higher installed.
 
 * **macOS:** Open Terminal and run `brew install python` or download from [python.org](https://www.python.org/).
-* **Windows:** Download from [python.org](https://www.python.org/). **CRITICAL:** Check the box **"Add Python to PATH"** during installation.
+* **Windows:** Download from [python.org](https://www.python.org/). **CRITICAL INSTALLATION NOTE:** Check the box **"Add Python to PATH"** during installation.
 
 ### 2. Set Up Virtual Environment (`.venv`)
 Open your terminal or command prompt in the project folder and run the following:
